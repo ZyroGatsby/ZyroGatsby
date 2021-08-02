@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Data Science Portfolio - The Greatest?](https://github.com/ZyroGatsby/Data-Science-Portfolio)
 
-- 👨‍💻 All of my projects are available at [https://github.com/ZyroGatsby?tab=repositories](https://github.com/ZyroGatsby?tab=repositories)
+- 👨‍💻 All of my projects are available [here](https://github.com/ZyroGatsby?tab=repositories)
 
 - 💬 Ask me about **Machine Learning & Python Development**
 
