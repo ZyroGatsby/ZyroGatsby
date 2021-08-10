@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zyro Kamson</h1>
-<h3 align="center">A Financial & Technological Enthusiast Machine Learning Engineer | Passionate Full Stack Engineer</h3>
+<h3 align="center">A Financial & Technological Enthused Machine Learning Engineer | Passionate Full Stack Engineer</h3>
 
 - 🔭 I’m currently working on [Data Science Portfolio - The Greatest?](https://github.com/ZyroGatsby/Data-Science-Portfolio)
 
