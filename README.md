@@ -28,11 +28,9 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/gatsby"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="gatsby" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zyrogatsby&theme=cobalt&show_icons=true&locale=en&layout=compact" alt="zyrogatsby" /></p>
-<br>
-<p><img src="https://github-readme-stats.vercel.app/api?username=zyrogatsby&hide=contribs,prs&theme=cobalt&show_icons=true" alt="zyrogatsby" /></p>
-
 ![My github stats](https://github-readme-stats.vercel.app/api?username=zyrogatsby&hide=contribs,prs&theme=cobalt&show_icons=true)
-  
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zyrogatsby&repo=dog_breed_web_app)
+ 
+![Languages stats](https://github-readme-stats.vercel.app/api/top-langs?username=zyrogatsby&theme=cobalt&show_icons=true&locale=en&layout=compact)
+
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zyrogatsby&repo=dog_breed_web_app)](https://github.com/ZyroGatsby/dog_breed_web_app)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zyrogatsby&repo=Deep-Learning)](https://github.com/ZyroGatsby/Deep-Learning)
