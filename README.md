@@ -30,3 +30,5 @@
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=zyrogatsby&theme=cobalt&show_icons=true&locale=en&layout=compact" alt="zyrogatsby" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api?username=zyrogatsby&hide=contribs,prs&theme=cobalt&show_icons=true" alt="zyrogatsby" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/pin/?username=zyrogatsby&repo=Data-Science-Portfolio&theme=cobalt&show_icons=true" alt="zyrogatsby" /></p>
+https://github-readme-stats.vercel.app/api/pin/?username=thepracticaldev&repo=dev.to
