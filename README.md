@@ -36,7 +36,7 @@
 
 <h3 align="left">Favorite Repositories:</h3>
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=zyrogatsby&repo=Machine-Learning-with-Python&theme=cobalt](https://github.com/ZyroGatsby/Machine-Learning-with-Python)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=zyrogatsby&repo=Machine-Learning-with-Python&theme=cobalt)](https://github.com/ZyroGatsby/Machine-Learning-with-Python)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=zyrogatsby&repo=Deep-Learning&theme=cobalt)](https://github.com/ZyroGatsby/Deep-Learning)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=zyrogatsby&repo=NLP&theme=cobalt)](https://github.com/ZyroGatsby/NLP)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=zyrogatsby&repo=Time-Series-Analysis&theme=cobalt)](https://github.com/ZyroGatsby/Time-Series-Analysis)
