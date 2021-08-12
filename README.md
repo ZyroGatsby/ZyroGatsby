@@ -29,11 +29,13 @@
 <p><a href="https://www.buymeacoffee.com/gatsby"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="gatsby" /></a></p><br><br>
 
 <h3 align="left">Github Stats:</h3>
+
 ![My github stats](https://github-readme-stats.vercel.app/api?username=zyrogatsby&hide=contribs,prs&theme=cobalt&show_icons=true)
  
 ![Languages stats](https://github-readme-stats.vercel.app/api/top-langs?username=zyrogatsby&theme=cobalt&show_icons=true&locale=en&layout=compact)
 
 <h3 align="left">Favorite Repositories:</h3>
+
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=zyrogatsby&repo=Machine-Learning-with-Python)](https://github.com/ZyroGatsby/Machine-Learning-with-Python)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=zyrogatsby&repo=Deep-Learning)](https://github.com/ZyroGatsby/Deep-Learning)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=zyrogatsby&repo=NLP)](https://github.com/ZyroGatsby/NLP)
