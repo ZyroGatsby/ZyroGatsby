@@ -30,7 +30,7 @@
 
 <h3 align="left">Github Stats:</h3>
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=zyrogatsby&hide=contribs,prs&theme=cobalt&show_icons=true)
+![My github stats](https://github-readme-stats.vercel.app/api?username=zyrogatsby&hide=contribs,prs,issues&theme=cobalt&show_icons=true)
  
 ![Languages stats](https://github-readme-stats.vercel.app/api/top-langs?username=zyrogatsby&theme=cobalt&show_icons=true&locale=en&layout=compact)
 
