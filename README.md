@@ -28,10 +28,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/gatsby"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="gatsby" /></a></p><br><br>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=zyrogatsby&theme=cobalt&show_icons=true&locale=en&layout=compact" alt="zyrogatsby" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zyrogatsby&theme=cobalt&show_icons=true&locale=en&layout=compact" alt="zyrogatsby" /></p>
 <br>
 <p><img src="https://github-readme-stats.vercel.app/api?username=zyrogatsby&hide=contribs,prs&theme=cobalt&show_icons=true" alt="zyrogatsby" /></p>
 <br>
-<p><img src="https://github-readme-stats.vercel.app/api/pin?username=zyrogatsby&repo=ZyroGatsby
-/
-Data-Science-Portfolio&theme=cobalt&show_icons=true" alt="zyrogatsby" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/pin?username=zyrogatsby&repo=Data-Science-Portfolio&theme=cobalt&show_icons=true" alt="zyrogatsby" /></p>
