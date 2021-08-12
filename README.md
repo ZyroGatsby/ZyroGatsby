@@ -29,3 +29,4 @@
 <p><a href="https://www.buymeacoffee.com/gatsby"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="gatsby" /></a></p><br><br>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zyrogatsby&show_icons=true&locale=en&layout=compact" alt="zyrogatsby" /></p>
+[![Zyro's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZyroGatsby)](https://github.com/ZyroGatsby/github-readme-stats)
