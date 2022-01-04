@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Zyro Kamson</h1>
 <h3 align="center">A Financial & Technological Enthused Machine Learning Engineer | Passionate Full Stack Engineer</h3>
 
-- 🔭 I’m currently working on a host  of cool projects.
+- 🔭 I’m currently working on something huge.
 
 - 👨‍💻 All of my projects are available [here](https://github.com/ZyroGatsby?tab=repositories)
 
-- 💬 Ask me about **Machine Learning & Python Development**
+- 💬 Ask me about **Machine Learning & Software Development**
 
 - 📫 How to reach me **zyro.auson@gmail.com**
 
