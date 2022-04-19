@@ -38,7 +38,6 @@
 <h3 align="left">Github Stats:</h3>
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=zyrogatsby&hide=contribs,prs,issues&theme=radical&show_icons=true)
- 
 ![Languages stats](https://github-readme-stats.vercel.app/api/top-langs?username=zyrogatsby&theme=radical&show_icons=true&locale=en&layout=compact)
 
 <h3 align="left">Favorite Repositories:</h3>
