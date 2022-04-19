@@ -37,13 +37,11 @@
 
 <h3 align="left">Github Stats:</h3>
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=zyrogatsby&hide=contribs,prs,issues&theme=cobalt&show_icons=true)
+![My github stats](https://github-readme-stats.vercel.app/api?username=zyrogatsby&hide=contribs,prs,issues&theme=radical&show_icons=true)
  
-![Languages stats](https://github-readme-stats.vercel.app/api/top-langs?username=zyrogatsby&theme=cobalt&show_icons=true&locale=en&layout=compact)
+![Languages stats](https://github-readme-stats.vercel.app/api/top-langs?username=zyrogatsby&theme=radical&show_icons=true&locale=en&layout=compact)
 
 <h3 align="left">Favorite Repositories:</h3>
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=zyrogatsby&repo=Machine-Learning-with-Python&theme=cobalt)](https://github.com/ZyroGatsby/Machine-Learning-with-Python)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=zyrogatsby&repo=Deep-Learning&theme=cobalt)](https://github.com/ZyroGatsby/Deep-Learning)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=zyrogatsby&repo=NLP&theme=cobalt)](https://github.com/ZyroGatsby/NLP)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=zyrogatsby&repo=Financial_Analysis_with_Python&theme=cobalt)](https://github.com/ZyroGatsby/Time-Series-Analysis)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=zyrogatsby&repo=Machine-Learning-with-Python&theme=radical)](https://github.com/ZyroGatsby/Machine-Learning-with-Python)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=zyrogatsby&repo=Deep-Learning&theme=radical)](https://github.com/ZyroGatsby/Deep-Learning)
