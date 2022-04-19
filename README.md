@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available [here](https://github.com/ZyroGatsby?tab=repositories)
 
-- 💬 Ask me about **Machine Learning, Software Development, Blockchain and NFTs**
+- 💬 Ask me about **Machine Learning, Software Development, Artificial Intelligence**
 
 - 📫 How to reach me **zyro.kamson@gmail.com**
 
