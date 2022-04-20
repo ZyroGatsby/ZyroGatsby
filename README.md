@@ -36,8 +36,14 @@
 <p><a href="https://www.buymeacoffee.com/gatsby"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="gatsby" /></a></p><br><br>
 
 <h3 align="left">Github Stats:</h3>
-<img width=390 src="https://github-readme-stats.vercel.app/api?username=zyrogatsby&hide=contribs,prs,issues&theme=radical&show_icons=true&locale=en&hide_border=true" alt="zyrogatsby" />
-<img width=390 src="https://github-readme-stats.vercel.app/api/top-langs?username=zyrogatsby&theme=radical&show_icons=true&locale=en&layout=compact&hide_border=true" alt="zyrogatsby" />
+<p align="left">
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=zyrogatsby&hide=contribs,prs,issues&theme=radical&show_icons=true&locale=en&hide_border=true" alt="zyrogatsby" />
+  &nbsp;
+  <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs?username=zyrogatsby&theme=radical&show_icons=true&locale=en&layout=compact&hide_border=true" alt="zyrogatsby" />
+ </p>
+ 
+ <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=zyrogatsby&theme=radical&hide_border=true" alt="zyrogatsby"/>
+ 
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=zyrogatsby&hide=contribs,prs,issues&theme=radical&show_icons=true)
 ![Languages stats](https://github-readme-stats.vercel.app/api/top-langs?username=zyrogatsby&theme=radical&show_icons=true&locale=en&layout=compact)
