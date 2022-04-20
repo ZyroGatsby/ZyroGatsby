@@ -37,6 +37,7 @@
 
 <h3 align="left">Github Stats:</h3>
 <img width=390 src="https://github-readme-stats.vercel.app/api?username=zyrogatsby&hide=contribs,prs,issues&theme=radical&show_icons=true&locale=en&hide_border=true" alt="zyrogatsby" />
+<img width=390 src="https://github-readme-stats.vercel.app/api/top-langs?username=zyrogatsby&theme=radical&show_icons=true&locale=en&layout=compact&hide_border=true" alt="zyrogatsby" />
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=zyrogatsby&hide=contribs,prs,issues&theme=radical&show_icons=true)
 ![Languages stats](https://github-readme-stats.vercel.app/api/top-langs?username=zyrogatsby&theme=radical&show_icons=true&locale=en&layout=compact)
