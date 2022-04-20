@@ -42,12 +42,11 @@
   <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=zyrogatsby&theme=radical&hide_border=true" alt="zyrogatsby"/>
  </p>
  
- 
-![Languages stats](https://github-readme-stats.vercel.app/api/top-langs?username=zyrogatsby&hide_border=true&theme=radical&show_icons=true&locale=en&layout=compact)
+
+![Languages stats]<img width=390 src="https://github-readme-stats.vercel.app/api/top-langs?username=zyrogatsby&hide_border=true&theme=radical&show_icons=true&locale=en&layout=compact" alt="zyrogatsby"/>
 
 <h3 align="left">Favorite Repositories:</h3>
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=zyrogatsby&repo=Machine-Learning-with-Python&hide_border=true&theme=radical)](https://github.com/ZyroGatsby/Machine-Learning-with-Python)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=zyrogatsby&hide_border=true&repo=Deep-Learning&theme=radical)](https://github.com/ZyroGatsby/Deep-Learning)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=zyrogatsby&hide_border=true&repo=Deep-Learning&theme=radical)](https://github.com/ZyroGatsby/Deep-Learning)
-![Languages stats](https://github-readme-stats.vercel.app/api/top-langs?username=zyrogatsby&hide_border=true&theme=radical&show_icons=true&locale=en&layout=compact)
