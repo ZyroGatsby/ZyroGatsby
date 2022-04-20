@@ -37,14 +37,13 @@
 
 <h3 align="left">Github Stats:</h3>
 <p align="left">
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=zyrogatsby&hide=contribs,issues&theme=radical&show_icons=true&line_height=4&locale=en&hide_border=true" alt="zyrogatsby" />
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=zyrogatsby&hide=contribs,issues&theme=radical&show_icons=true&line_height=24&locale=en&hide_border=true" alt="zyrogatsby" />
   &nbsp;
   <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=zyrogatsby&theme=radical&hide_border=true" alt="zyrogatsby"/>
  </p>
  
- <img width=780 src="https://github-readme-stats.vercel.app/api/top-langs?username=zyrogatsby&theme=radical&show_icons=true&locale=en&layout=compact&hide_border=true" alt="zyrogatsby"/>
  
-![Languages stats](https://github-readme-stats.vercel.app/api/top-langs?username=zyrogatsby&theme=radical&show_icons=true&locale=en&layout=compact)
+![Languages stats](https://github-readme-stats.vercel.app/api/top-langs?username=zyrogatsby&hide_border=true&theme=radical&show_icons=true&locale=en&layout=compact)
 
 <h3 align="left">Favorite Repositories:</h3>
 
