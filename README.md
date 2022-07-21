@@ -32,9 +32,6 @@
 <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>  <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/gatsby"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="gatsby" /></a></p><br><br>
-
 <h3 align="left">Github Stats:</h3>
 <p align="left">
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=zyrogatsby&hide=contribs,issues&theme=radical&show_icons=true&line_height=38&locale=en&hide_border=true" alt="zyrogatsby" />
@@ -45,7 +42,7 @@
 
 <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs?username=zyrogatsby&hide_border=true&theme=radical&show_icons=true&locale=en&layout=compact" alt="zyrogatsby"/>
 
-<h3 align="left">Favorite Repositories:</h3>
+<!-- <h3 align="left">Favorite Repositories:</h3>
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=zyrogatsby&repo=Machine-Learning-with-Python&hide_border=true&theme=radical)](https://github.com/ZyroGatsby/Machine-Learning-with-Python)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=zyrogatsby&hide_border=true&repo=Deep-Learning&theme=radical)](https://github.com/ZyroGatsby/Deep-Learning)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=zyrogatsby&hide_border=true&repo=Deep-Learning&theme=radical)](https://github.com/ZyroGatsby/Deep-Learning) -->
