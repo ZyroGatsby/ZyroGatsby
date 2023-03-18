@@ -1,14 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zyro Kamson</h1>
 <h3 align="center">A Data | Software Engineer</h3>
 
-- 🔭 I’m currently working on something huge.
-
-- 👨‍💻 All of my projects are available [here](https://github.com/ZyroGatsby?tab=repositories)
-
-- 💬 Ask me about **Machine Learning, Software Development, Artificial Intelligence**
-
-- 📫 How to reach me **zyro.kamson@gmail.com**
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -37,8 +29,3 @@
  
 
 <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs?username=zyrogatsby&hide_border=true&theme=radical&show_icons=true&locale=en&layout=compact" alt="zyrogatsby"/>
-
-<!-- <h3 align="left">Favorite Repositories:</h3>
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=zyrogatsby&repo=Machine-Learning-with-Python&hide_border=true&theme=radical)](https://github.com/ZyroGatsby/Machine-Learning-with-Python)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=zyrogatsby&hide_border=true&repo=Deep-Learning&theme=radical)](https://github.com/ZyroGatsby/Deep-Learning) -->
