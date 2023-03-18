@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zyro Kamson</h1>
-<h3 align="center">A Data | Software Engineer</h3>
+<h3 align="center">Data | Software Engineer</h3>
 
 
 <h3 align="left">Connect with me:</h3>
