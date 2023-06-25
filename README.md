@@ -22,7 +22,6 @@
 
 <h3 align="left">Github Stats:</h3>
 <p align="left">
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=zyrogatsby&hide=contribs,issues&theme=radical&show_icons=true&line_height=38&locale=en&hide_border=true" alt="zyrogatsby" />
   &nbsp;
   <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=zyrogatsby&theme=radical&hide_border=true" alt="zyrogatsby"/>
  </p>
