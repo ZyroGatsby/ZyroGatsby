@@ -23,5 +23,7 @@
 <h3 align="left">Github Stats:</h3>
  
 <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=zyrogatsby&theme=radical&hide_border=true" alt="zyrogatsby"/>
+
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ZyroGatsby&theme=dark&mode=weekly" alt="GitHub Streak" /></a>
  
 <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs?username=zyrogatsby&hide_border=true&theme=radical&show_icons=true&locale=en&layout=compact" alt="zyrogatsby"/>
