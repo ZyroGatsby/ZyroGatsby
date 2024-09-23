@@ -7,6 +7,6 @@
 <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
 
 <h3 align="left">Github Stats:</h3>
- 
-<img width=400 src="https://github-readme-streak-stats.herokuapp.com/?user=zyrogatsby&theme=radical&hide_border=true" alt="zyrogatsby"/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=ZyroGatsby&exclude_days=Sun)](https://git.io/streak-stats)
  
