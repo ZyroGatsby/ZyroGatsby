@@ -8,5 +8,5 @@
 
 <h3 align="left">Github Stats:</h3>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ZyroGatsby&exclude_days=Sun)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ZyroGatsby&border_radius=6&exclude_days=Sun%2CSat&card_width=500)](https://git.io/streak-stats)
  
